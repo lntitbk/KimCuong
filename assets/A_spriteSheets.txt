@@ -1,0 +1,140 @@
+function makeSprites() {
+	Crafty.sprite(550, 858, 'assets/bg.gif', {
+		bg: [0, 0]
+	});
+	Crafty.sprite(960, 160, 'assets/boom.png', {
+		boom: [0, 0]
+	});
+	Crafty.sprite(300, 50, 'assets/boom2.png', {
+		boom2: [0, 0]
+	});
+	Crafty.sprite(100, 25, 'assets/Break00.png', {
+		Break00: [0, 0]
+	});
+	Crafty.sprite(100, 25, 'assets/Break01.png', {
+		Break01: [0, 0]
+	});
+	Crafty.sprite(100, 25, 'assets/Break02.png', {
+		Break02: [0, 0]
+	});
+	Crafty.sprite(100, 25, 'assets/Break03.png', {
+		Break03: [0, 0]
+	});
+	Crafty.sprite(100, 25, 'assets/Break04.png', {
+		Break04: [0, 0]
+	});
+	Crafty.sprite(100, 25, 'assets/Break05.png', {
+		Break05: [0, 0]
+	});
+	Crafty.sprite(100, 25, 'assets/Break06.png', {
+		Break06: [0, 0]
+	});
+	Crafty.sprite(272, 68, 'assets/cf.png', {
+		cf: [0, 0]
+	});
+	Crafty.sprite(600, 60, 'assets/Gems00.png', {
+		Gems00: [0, 0]
+	});
+	Crafty.sprite(600, 60, 'assets/Gems01.png', {
+		Gems01: [0, 0]
+	});
+	Crafty.sprite(600, 60, 'assets/Gems02.png', {
+		Gems02: [0, 0]
+	});
+	Crafty.sprite(600, 60, 'assets/Gems03.png', {
+		Gems03: [0, 0]
+	});
+	Crafty.sprite(600, 60, 'assets/Gems04.png', {
+		Gems04: [0, 0]
+	});
+	Crafty.sprite(600, 60, 'assets/Gems05.png', {
+		Gems05: [0, 0]
+	});
+	Crafty.sprite(600, 60, 'assets/Gems06.png', {
+		Gems06: [0, 0]
+	});
+	Crafty.sprite(242, 121, 'assets/help.png', {
+		help: [0, 0]
+	});
+	Crafty.sprite(240, 119, 'assets/hint.png', {
+		hint: [0, 0]
+	});
+	Crafty.sprite(185, 189, 'assets/hintBrd.png', {
+		hintBrd: [0, 0]
+	});
+	Crafty.sprite(204, 34, 'assets/hinth.png', {
+		hinth: [0, 0]
+	});
+	Crafty.sprite(236, 40, 'assets/hs.png', {
+		hs: [0, 0]
+	});
+	Crafty.sprite(300, 39, 'assets/hsnums.png', {
+		hsnums: [0, 0]
+	});
+	Crafty.sprite(500, 127, 'assets/kc.png', {
+		kc: [0, 0]
+	});
+	Crafty.sprite(1224, 102, 'assets/l1.png', {
+		l1: [0, 0]
+	});
+	Crafty.sprite(560, 90, 'assets/l2.png', {
+		l2: [0, 0]
+	});
+	Crafty.sprite(1000, 200, 'assets/l3.png', {
+		l3: [0, 0]
+	});
+	Crafty.sprite(490, 1500, 'assets/lightning.png', {
+		lightning: [0, 0]
+	});
+	Crafty.sprite(366, 188, 'assets/nomove.png', {
+		nomove: [0, 0]
+	});
+	Crafty.sprite(290, 38, 'assets/Number00.png', {
+		Number00: [0, 0]
+	});
+	Crafty.sprite(290, 38, 'assets/Number01.png', {
+		Number01: [0, 0]
+	});
+	Crafty.sprite(290, 38, 'assets/Number02.png', {
+		Number02: [0, 0]
+	});
+	Crafty.sprite(290, 38, 'assets/Number03.png', {
+		Number03: [0, 0]
+	});
+	Crafty.sprite(290, 38, 'assets/Number04.png', {
+		Number04: [0, 0]
+	});
+	Crafty.sprite(290, 38, 'assets/Number05.png', {
+		Number05: [0, 0]
+	});
+	Crafty.sprite(290, 38, 'assets/Number06.png', {
+		Number06: [0, 0]
+	});
+	Crafty.sprite(230, 28, 'assets/scoreNum.png', {
+		scoreNum: [0, 0]
+	});
+	Crafty.sprite(190, 22, 'assets/score_num.png', {
+		score_num: [0, 0]
+	});
+	Crafty.sprite(321, 199, 'assets/scrBrd.png', {
+		scrBrd: [0, 0]
+	});
+	Crafty.sprite(210, 50, 'assets/set.png', {
+		set: [0, 0]
+	});
+	Crafty.sprite(228, 219, 'assets/startBrd.png', {
+		startBrd: [0, 0]
+	});
+	Crafty.sprite(302, 151, 'assets/startBtn.png', {
+		startBtn: [0, 0]
+	});
+	Crafty.sprite(480, 60, 'assets/superGem.png', {
+		superGem: [0, 0]
+	});
+	Crafty.sprite(536, 608, 'assets/tab.png', {
+		tab: [0, 0]
+	});
+	Crafty.sprite(445, 22, 'assets/timebar.gif', {
+		timebar: [0, 0]
+	});
+}
